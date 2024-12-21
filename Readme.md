@@ -5,6 +5,8 @@ This project enables students to use NFTs as collateral to secure financing for 
 
 ## Contract Address
 0x139C7Fe09544dA4C12de46a817a47320A7C5D59E
+![image](https://github.com/user-attachments/assets/735d02b3-600a-42a3-9542-c84f95784964)
+
 
 ## Project Vision
 The vision of this project is to bridge the gap between NFT ownership and education financing. By leveraging blockchain and smart contracts, it aims to create a transparent, decentralized platform that empowers individuals to unlock the value of their digital assets.
