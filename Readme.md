@@ -5,7 +5,8 @@ This project enables students to use NFTs as collateral to secure financing for 
 
 ## Contract Address
 0x139C7Fe09544dA4C12de46a817a47320A7C5D59E
-![image](https://github.com/user-attachments/assets/735d02b3-600a-42a3-9542-c84f95784964)
+![image](https://github.com/user-attachments/assets/99d5028d-8ba9-49cb-8023-bc5113d44473)
+
 
 
 ## Project Vision
